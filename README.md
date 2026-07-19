@@ -2,7 +2,7 @@
 
 IT student at Macquarie University (graduating 2026) building toward a career in software development and project management. I learn by doing — small projects daily, larger ones weekly.
 
-By day I lead operations at Laverty Pathology, managing 800–1,000 specimens daily in a zero-tolerance data environment. It's taught me how to own a process, deliver under pressure, and actually care about getting things right.
+By day I lead operations for Histology SRA - Laverty Pathology, managing 800–1,000 specimens daily in a zero-tolerance data environment. It's taught me how to own a process, deliver under pressure, and actually care about getting things right.
 
 ---
 
